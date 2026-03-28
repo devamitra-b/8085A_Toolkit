@@ -1,0 +1,76 @@
+The 8085A has 40 pins, and each pin has a specific function.
+
+To make it easy, we divide them into groups:
+1. Address Bus Pins (A8 – A15)
+These are 8 pins
+Used to send the higher address of memory
+Example: If the processor wants data from memory, it sends the address through these pins
+
+2. Multiplexed Address/Data Bus (AD0 – AD7)
+These 8 pins are special
+They carry:
+Address (lower 8 bits) at first
+Then data
+That’s why they are called multiplexed
+
+3. Control and Status Signals
+➤ ALE (Address Latch Enable)
+Separates address from data in AD0–AD7
+Very important signal
+➤ RD̅ (Read)
+Active low
+Tells memory: “Send data to me”
+➤ WR̅ (Write)
+Active low
+Tells memory: “Take data from me”
+➤ IO/M̅
+Selects:
+Memory operation (0)
+I/O operation (1)
+➤ S0, S1
+Status signals
+Indicate type of operation
+
+4. Interrupt Pins
+These allow external devices to interrupt the processor:
+
+TRAP → Highest priority (cannot be disabled)
+RST 7.5, 6.5, 5.5 → Maskable interrupts
+INTR → General interrupt
+INTA̅ → Interrupt acknowledge
+
+5. Power Supply Pins
+Vcc → +5V power
+Vss → Ground
+
+6. Clock Pins
+X1, X2 → Connected to crystal oscillator
+Used to generate clock signal
+
+7. Reset Pins
+RESET IN̅
+Resets the processor
+RESET OUT
+Tells other devices that processor is reset
+
+8. Serial Communication Pins
+SID (Serial Input Data)
+SOD (Serial Output Data)
+Used for simple serial communication
+
+9. Ready & DMA Pins
+➤ READY
+If 0 → processor waits
+Used when memory is slow
+➤ HOLD
+Request to use system bus
+➤ HLDA (Hold Acknowledge)
+Processor gives control of bus
+Simple Memory Trick 🧠
+
+Think of pins as 4 groups:
+
+Address/Data → Where to go & what to send
+Control → What action to perform
+Interrupts → Urgent signals
+Power/Clock → To run the system
