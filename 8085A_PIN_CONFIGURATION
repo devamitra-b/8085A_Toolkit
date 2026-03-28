@@ -31,7 +31,7 @@ I/O operation (1)
 Status signals
 Indicate type of operation
 
-4. Interrupt Pins
+4. Interrupt Pins:
 These allow external devices to interrupt the processor:
 
 TRAP → Highest priority (cannot be disabled)
@@ -39,11 +39,11 @@ RST 7.5, 6.5, 5.5 → Maskable interrupts
 INTR → General interrupt
 INTA̅ → Interrupt acknowledge
 
-5. Power Supply Pins
+5. Power Supply Pins:
 Vcc → +5V power
 Vss → Ground
 
-6. Clock Pins
+6. Clock Pins:
 X1, X2 → Connected to crystal oscillator
 Used to generate clock signal
 
