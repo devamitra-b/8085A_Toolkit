@@ -25,7 +25,7 @@ Tells memory: “Take data from me”.
 ➤ IO/M̅
 Selects:
 Memory operation (0)
-I/O operation (1)
+I/O operation (1).
 ➤ S0, S1
 Status signals
 Indicate type of operation
