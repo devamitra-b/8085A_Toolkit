@@ -18,7 +18,7 @@ Separates address from data in AD0–AD7
 Very important signal.
 ➤ RD̅ (Read)
 Active low
-Tells memory: “Send data to me”
+Tells memory: “Send data to me”.
 ➤ WR̅ (Write)
 Active low
 Tells memory: “Take data from me”
