@@ -40,7 +40,7 @@ INTA̅ → Interrupt acknowledge.
 
 5. Power Supply Pins:
 Vcc → +5V power
-Vss → Ground
+Vss → Ground.
 
 6. Clock Pins:
 X1, X2 → Connected to crystal oscillator
