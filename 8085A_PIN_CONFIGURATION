@@ -64,7 +64,8 @@ Used when memory is slow.
 ➤ HOLD
 Request to use system bus.
 ➤ HLDA (Hold Acknowledge)
-Processor gives control of bus
+Processor gives control of bus.
+
 Simple Memory Trick 🧠
 
 Think of pins as 4 groups:
