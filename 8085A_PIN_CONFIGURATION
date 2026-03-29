@@ -52,10 +52,10 @@ Resets the processor
 RESET OUT
 Tells other devices that processor is reset.
 
-8. Serial Communication Pins
+8. Serial Communication Pins:
 SID (Serial Input Data)
 SOD (Serial Output Data)
-Used for simple serial communication
+Used for simple serial communication.
 
 9. Ready & DMA Pins
 ➤ READY
