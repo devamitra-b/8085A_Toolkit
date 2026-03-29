@@ -71,6 +71,6 @@ Simple Memory Trick 🧠
 Think of pins as 4 groups:
 
 Address/Data → Where to go & what to send.
-Control → What action to perform
+Control → What action to perform.
 Interrupts → Urgent signals
 Power/Clock → To run the system
