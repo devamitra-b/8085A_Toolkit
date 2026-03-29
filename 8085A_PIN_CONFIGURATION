@@ -62,7 +62,7 @@ Used for simple serial communication.
 If 0 → processor waits
 Used when memory is slow.
 ➤ HOLD
-Request to use system bus
+Request to use system bus.
 ➤ HLDA (Hold Acknowledge)
 Processor gives control of bus
 Simple Memory Trick 🧠
