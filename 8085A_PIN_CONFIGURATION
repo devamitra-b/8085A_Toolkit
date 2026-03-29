@@ -28,7 +28,7 @@ Memory operation (0)
 I/O operation (1).
 ➤ S0, S1
 Status signals
-Indicate type of operation
+Indicate type of operation.
 
 4. Interrupt Pins:
 These allow external devices to interrupt the processor:
