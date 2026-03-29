@@ -10,8 +10,7 @@ Example: If the processor wants data from memory, it sends the address through t
 These 8 pins are special
 They carry:
 Address (lower 8 bits) at first
-Then data
-That’s why they are called multiplexed
+Then data That’s why they are called multiplexed.
 
 3. Control and Status Signals:
 ➤ ALE (Address Latch Enable)
