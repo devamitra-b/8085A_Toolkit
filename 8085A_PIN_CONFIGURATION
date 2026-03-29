@@ -57,10 +57,10 @@ SID (Serial Input Data)
 SOD (Serial Output Data)
 Used for simple serial communication.
 
-9. Ready & DMA Pins
+9. Ready & DMA Pins:
 ➤ READY
 If 0 → processor waits
-Used when memory is slow
+Used when memory is slow.
 ➤ HOLD
 Request to use system bus
 ➤ HLDA (Hold Acknowledge)
