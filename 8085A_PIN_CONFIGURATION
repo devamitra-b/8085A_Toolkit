@@ -46,7 +46,7 @@ Vss → Ground.
 X1, X2 → Connected to crystal oscillator.
 Used to generate clock signal.
 
-7. Reset Pins
+7. Reset Pins:
 RESET IN̅
 Resets the processor
 RESET OUT
