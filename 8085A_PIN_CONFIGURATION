@@ -39,7 +39,7 @@ INTR → General interrupt.
 INTA̅ → Interrupt acknowledge.
 
 5. Power Supply Pins:
-Vcc → +5V power
+Vcc → +5V power.
 Vss → Ground.
 
 6. Clock Pins:
