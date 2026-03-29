@@ -43,8 +43,8 @@ Vcc → +5V power.
 Vss → Ground.
 
 6. Clock Pins:
-X1, X2 → Connected to crystal oscillator
-Used to generate clock signal
+X1, X2 → Connected to crystal oscillator.
+Used to generate clock signal.
 
 7. Reset Pins
 RESET IN̅
