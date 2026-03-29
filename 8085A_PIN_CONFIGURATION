@@ -33,10 +33,10 @@ Indicate type of operation.
 4. Interrupt Pins:
 These allow external devices to interrupt the processor:
 
-TRAP → Highest priority (cannot be disabled)
-RST 7.5, 6.5, 5.5 → Maskable interrupts
-INTR → General interrupt
-INTA̅ → Interrupt acknowledge
+TRAP → Highest priority (cannot be disabled).
+RST 7.5, 6.5, 5.5 → Maskable interrupts.
+INTR → General interrupt.
+INTA̅ → Interrupt acknowledge.
 
 5. Power Supply Pins:
 Vcc → +5V power
