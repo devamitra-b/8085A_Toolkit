@@ -21,7 +21,7 @@ Active low
 Tells memory: “Send data to me”.
 ➤ WR̅ (Write)
 Active low
-Tells memory: “Take data from me”
+Tells memory: “Take data from me”.
 ➤ IO/M̅
 Selects:
 Memory operation (0)
