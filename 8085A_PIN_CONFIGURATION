@@ -15,7 +15,7 @@ Then data, That’s why they are called multiplexed.
 3. Control and Status Signals:
 ➤ ALE (Address Latch Enable)
 Separates address from data in AD0–AD7
-Very important signal
+Very important signal.
 ➤ RD̅ (Read)
 Active low
 Tells memory: “Send data to me”
