@@ -50,7 +50,7 @@ Used to generate clock signal.
 RESET IN̅
 Resets the processor
 RESET OUT
-Tells other devices that processor is reset
+Tells other devices that processor is reset.
 
 8. Serial Communication Pins
 SID (Serial Input Data)
