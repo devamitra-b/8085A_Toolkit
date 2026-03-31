@@ -1,18 +1,18 @@
 📁 8085 Microprocessor Learning Repository
 ---
 📁 About This Repository
-
+---
 This repository is dedicated to learning, practicing, and mastering the fundamentals of the 8085 Microprocessor. It contains structured notes, assembly programs, and practical insights developed during my continuous learning process, focusing on clarity, logic building, and real-world application.
 
 The repository serves as a personal knowledge base as well as a reference for beginners who want to understand 8085 concepts in a simple and effective way.
-
+---
 📁 Learning Source
-
+---
 Instructor - Dr. Balajee Shesadri, Dr. Danieal Raj
 Learning Platform - ETALVIS.COM
 
 This guidance helped build a strong foundation in both theoretical concepts and practical programming of the 8085 microprocessor.
-
+---
 📁 Course Contents
 
 This course is divided into the following sections:
