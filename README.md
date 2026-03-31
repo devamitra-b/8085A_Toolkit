@@ -74,8 +74,9 @@ To develop practical understanding of microprocessor systems
 ---
 8085 Simulator (e.g., GNUSim8085 / online simulators)
 Notes and program examples for practice
-📁 Author Information
 
+📁 Author Information
+---
 Name - Devamitra B
 
 This repository reflects my personal learning journey and growth in microprocessor concepts.
