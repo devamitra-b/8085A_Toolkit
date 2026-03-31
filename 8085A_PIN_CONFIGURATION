@@ -48,7 +48,7 @@ Used to generate clock signal.
 
 7. Reset Pins:
 RESET IN̅
-Resets the processor
+Resets the processor.
 RESET OUT
 Tells other devices that processor is reset.
 
