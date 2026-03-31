@@ -8,7 +8,7 @@ The repository serves as a personal knowledge base as well as a reference for be
 
 📁 Learning Source
 ---
-Instructor - Dr. Balajee Shesadri, Dr. Danieal Raj
+Instructor - Dr. Balajee Shesadri, Dr. Danieal Raj.  
 Learning Platform - ETALVIS.COM
 
 This guidance helped build a strong foundation in both theoretical concepts and practical programming of the 8085 microprocessor.
