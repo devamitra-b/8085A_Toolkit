@@ -9,7 +9,7 @@ Example: If the processor wants data from memory, it sends the address through t
 2. Multiplexed Address/Data Bus (AD0 – AD7):
 These 8 pins are special
 They carry:
-Address (lower 8 bits) at first
+Address (lower 8 bits) at first.
 Then data, That’s why they are called multiplexed.
 
 3. Control and Status Signals:
