@@ -93,6 +93,7 @@ Addition of more assembly programs
 Inclusion of advanced interfacing topics
 More detailed explanations and diagrams
 Practice questions with solutions
-📁 Acknowledgement
 
+📁 Acknowledgement
+---
 This repository represents my ongoing journey in learning the 8085 Microprocessor. It will continue to evolve as I explore more concepts and strengthen my understanding.
