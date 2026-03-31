@@ -59,8 +59,9 @@ Organized into section-wise folders
 Each folder contains notes, programs, and examples
 Clear and structured content for easy navigation
 Focus on readability and simplicity
-📁 Purpose and Goals
 
+📁 Purpose and Goals
+---
 The main goals of this repository are:
 
 To build a strong foundation in 8085 microprocessor
