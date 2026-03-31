@@ -6,7 +6,6 @@ STA 2001H       ; Store in memory location of 'b'
 
 LDA 2000H       ; Load 'a' into accumulator
 MOV B, A        ; Move 'a' to register B
-
 LDA 2001H       ; Load 'b' into accumulator
 ADD B           ; A = A + B (b + a)
 STA 2002H       ; Store result in 'c'
