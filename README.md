@@ -42,7 +42,7 @@ Concept-based questions
 Mini tests for self-evaluation
 
 📁 Concepts Practiced
-
+---
 The materials in this repository cover:
 
 Understanding of 8085 architecture and working
