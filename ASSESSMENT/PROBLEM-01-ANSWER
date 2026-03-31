@@ -1,15 +1,14 @@
-MVI A, 10
-STA 1000H
-MVI A, 20
-STA 1001H
+MVI A, 0AH      ; Load 10 into accumulator
+STA 2000H       ; Store in memory location of 'a'
 
-LDA 1000H
-MOV B,A
+MVI A, 14H      ; Load 20 into accumulator
+STA 2001H       ; Store in memory location of 'b'
 
-LDA 1001H
-ADD B
+LDA 2000H       ; Load 'a' into accumulator
+MOV B, A        ; Move 'a' to register B
 
-STA 1002H  
+LDA 2001H       ; Load 'b' into accumulator
+ADD B           ; A = A + B (b + a)
 
-HLT
-SOLUTION 1
+STA 2002H       ; Store result in 'c'
+HLT             ; Stop program
