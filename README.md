@@ -82,6 +82,7 @@ Name - Devamitra B
 This repository reflects my personal learning journey and growth in microprocessor concepts.
 
 📁 Usage Notes
+---
 Content is intended for educational purposes
 Materials can be modified for learning and practice
 Suitable for beginners and students
