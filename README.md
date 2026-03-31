@@ -69,7 +69,9 @@ To improve programming and logical skills
 To maintain well-organized study material
 To simplify revision of important concepts
 To develop practical understanding of microprocessor systems
+
 📁 Tools & Resources
+---
 8085 Simulator (e.g., GNUSim8085 / online simulators)
 Notes and program examples for practice
 📁 Author Information
