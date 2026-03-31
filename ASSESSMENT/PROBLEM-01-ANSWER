@@ -1,6 +1,5 @@
 MVI A, 0AH      ; Load 10 into accumulator
 STA 2000H       ; Store in memory location of 'a'
-
 MVI A, 14H      ; Load 20 into accumulator
 STA 2001H       ; Store in memory location of 'b'
 LDA 2000H       ; Load 'a' into accumulator
