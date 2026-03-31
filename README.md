@@ -12,7 +12,7 @@ Instructor - Dr. Balajee Shesadri, Dr. Danieal Raj
 Learning Platform - ETALVIS.COM
 
 This guidance helped build a strong foundation in both theoretical concepts and practical programming of the 8085 microprocessor.
----
+
 📁 Course Contents
 
 This course is divided into the following sections:
