@@ -54,6 +54,7 @@ Problem-solving using 8085 instructions
 Each topic is explained with simple examples for easy understanding.
 
 📁 Repository Structure
+---
 Organized into section-wise folders
 Each folder contains notes, programs, and examples
 Clear and structured content for easy navigation
