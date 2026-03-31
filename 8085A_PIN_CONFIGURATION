@@ -3,7 +3,7 @@ The 8085A has 40 pins, and each pin has a specific function.
 To make it easy, we divide them into groups:
 1. Address Bus Pins (A8 – A15):
 These are 8 pins;
-Used to send the higher address of memory
+Used to send the higher address of memory.
 Example: If the processor wants data from memory, it sends the address through these pins.
 
 2. Multiplexed Address/Data Bus (AD0 – AD7):
