@@ -12,4 +12,3 @@ ANA B          ; A = A AND B
 
 STA 1002H
 HLT
-SOLUTION 4
