@@ -5,10 +5,6 @@ The 8085A has 40 pins, and each pin has a specific function.
 
 
 
-
-
-
-
 To make it easy, we divide them into groups:
 1. Address Bus Pins (A8 – A15):
 These are 8 pins;
