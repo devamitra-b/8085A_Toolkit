@@ -5,7 +5,6 @@ These are 8 pins;
 Used to send the higher address of memory.
 
 
-
 Example: If the processor wants data from memory, it sends the address through these pins.
 
 2. Multiplexed Address/Data Bus (AD0 – AD7):
