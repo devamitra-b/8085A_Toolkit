@@ -1,6 +1,8 @@
 The 8085A microprocessor is one of the best starting points if you're learning how computers actually work at a low level.
 I’ll explain it in a simple, beginner-friendly way.
 
+
+
 What is 8085A?
 The 8085A is an 8-bit microprocessor developed by Intel.
 8-bit means it can process 8 bits of data at a time.
